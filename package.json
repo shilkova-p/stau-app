@@ -1,6 +1,8 @@
 {
   "name": "stau-app",
   "version": "0.0.0",
+  "type": "module",
+  "main": "./dist/index.cjs",
   "scripts": {
     "ng": "ng",
     "start": "node server.js",
